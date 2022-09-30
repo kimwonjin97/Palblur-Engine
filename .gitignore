@@ -1,0 +1,27 @@
+# binary
+bin/
+
+#CMake temp/cache files
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+build
+
+/.vscode
+
+#python files 
+*.pyc
+/.pytest_cache
+
+#CLion files
+/.idea
+cmake-build-debug
+
+# OSX files
+.DS_Store
